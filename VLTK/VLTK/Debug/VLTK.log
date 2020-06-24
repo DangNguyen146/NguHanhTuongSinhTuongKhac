@@ -1,0 +1,14 @@
+﻿  Game.cpp
+  NhanVat.cpp
+  QuaiVat.cpp
+  Source.cpp
+F:\OOP\VLTK\VLTK\Source.cpp(8,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(8,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(13,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(15,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(21,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(22,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(27,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OOP\VLTK\VLTK\Source.cpp(28,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  VLTK.vcxproj -> F:\OOP\VLTK\Debug\VLTK.exe
